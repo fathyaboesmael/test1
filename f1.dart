@@ -1,5 +1,5 @@
 void main() {
-  for (int i = 10; i <= 20; i++) {
+  for (int i = 1; i <=5; i++) {
     print(i);
   }
 }
